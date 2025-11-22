@@ -11,5 +11,6 @@ config_version=5
 [application]
 
 config/name="downward_spiral"
+run/main_scene="uid://f2c1un42c74k"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
